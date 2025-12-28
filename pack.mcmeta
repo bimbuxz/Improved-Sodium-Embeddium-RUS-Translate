@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "description": [
+      {"text": "[1.2] Улучшение перевода для ", "color": "white"},
+      {"text": "Sodium", "color": "green"},
+      {"text": "/"},
+      {"text": "Embeddium", "color": "light_purple"},
+      {"text": " и аддонов", "color": "white"}
+      ],
+       "supported_formats": [7, 75]
+    }
+  }
