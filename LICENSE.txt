@@ -1,3 +1,16 @@
+Author: GreeN_Skeleton
+Official links:
+ CurseForge: https://www.curseforge.com/minecraft/texture-packs/improved-rus-sodium-translate
+ Modrinth: https://modrinth.com/resourcepack/improved-sodiumembeddium-rus-translation
+
 You are free to use this resource pack in any modpacks without crediting me.
 You are not allowed to reupload this project to other sites or platforms (including reuploads on CurseForge), nor to modify and distribute altered versions without my permission.
-There only one official resource on CurseForge(https://www.curseforge.com/minecraft/texture-packs/improved-rus-sodium-translate) and Modrinth(https://modrinth.com/resourcepack/improved-sodiumembeddium-rus-translation)
+
+This resource pack depends on:
+ Sodium by JellySquid (PolyForm Shield License 1.0.0) — https://www.curseforge.com/minecraft/mc-mods/sodium | https://modrinth.com/mod/sodium
+ Embeddium by FiniteReality (LGPL-3.0-only) — https://www.curseforge.com/minecraft/mc-mods/embeddium | https://modrinth.com/mod/embeddium
+ Xenon by Txni (LGPL-3.0-only) — https://www.curseforge.com/minecraft/mc-mods/xenon | https://modrinth.com/mod/xenon-forge
+ Chloride(Embeddium++/Sodium++) by SrRapero720 (ALR) — https://www.curseforge.com/minecraft/mc-mods/chloride | https://modrinth.com/mod/chloride
+ Dynamic Lights by Txni (MIT) — https://www.curseforge.com/minecraft/mc-mods/dynamiclights-reforged | https://modrinth.com/mod/sodium-dynamic-lights
+ 
+By using this pack, you agree to respect the licenses of the original mods.
