@@ -5,7 +5,7 @@ Official links:
  GitHub: https://github.com/bimbuxz/Improved-Sodium-Embeddium-RUS-Translate
 
 You are free to use this resource pack in any modpacks without crediting me.
-You are not allowed to reupload this project to other sites or platforms (including reuploads on CurseForge), nor to modify and distribute altered versions without my permission.
+You are not allowed to reupload this project to other sites or platforms, nor to modify and distribute altered versions without my permission.
 
 This resource pack depends on:
  Sodium by JellySquid (PolyForm Shield License 1.0.0) — https://www.curseforge.com/minecraft/mc-mods/sodium | https://modrinth.com/mod/sodium
@@ -15,4 +15,5 @@ This resource pack depends on:
  Dynamic Lights by Txni (MIT) — https://www.curseforge.com/minecraft/mc-mods/dynamiclights-reforged | https://modrinth.com/mod/sodium-dynamic-lights
  
 By using this pack, you agree to respect the licenses of the original mods.
+
 
