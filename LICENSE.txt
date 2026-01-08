@@ -2,6 +2,7 @@ Author: GreeN_Skeleton
 Official links:
  CurseForge: https://www.curseforge.com/minecraft/texture-packs/improved-rus-sodium-translate
  Modrinth: https://modrinth.com/resourcepack/improved-sodiumembeddium-rus-translation
+ GitHub: https://github.com/bimbuxz/Improved-Sodium-Embeddium-RUS-Translate
 
 You are free to use this resource pack in any modpacks without crediting me.
 You are not allowed to reupload this project to other sites or platforms (including reuploads on CurseForge), nor to modify and distribute altered versions without my permission.
@@ -14,3 +15,4 @@ This resource pack depends on:
  Dynamic Lights by Txni (MIT) — https://www.curseforge.com/minecraft/mc-mods/dynamiclights-reforged | https://modrinth.com/mod/sodium-dynamic-lights
  
 By using this pack, you agree to respect the licenses of the original mods.
+
